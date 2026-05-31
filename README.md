@@ -4,7 +4,7 @@
 
 🎯 Passionate about Data Science & AI & ML
 
-💻 Building projects every day
+💻 Aspiring Software Engineer
 
 📍 Kathmandu, Nepal
 
