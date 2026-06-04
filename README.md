@@ -13,7 +13,7 @@
 
 -OOP
 
--Currently Learning Data Science
+-Currently Learning ML
 
 ## Projects
 -🏦 Bank Account System -OOP in Python
