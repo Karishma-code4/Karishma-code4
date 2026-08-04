@@ -13,6 +13,8 @@
 
 -OOP
 
+-SQL
+
 -Currently Learning ML
 
 ## Projects
