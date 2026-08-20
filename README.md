@@ -2,23 +2,29 @@
 
 🌱 Currently Learning python & OOP
 
-🎯 Passionate about Data Science & AI & ML
+🎯 Passionate about fullstack
 
 💻 Aspiring Software Engineer
 
 📍 Kathmandu, Nepal
 
 ## 🛠️ Skills
--Python
+- Python
 
--OOP
+- OOP
 
--SQL
+- SQL
 
--Currently Learning ML
+- HTML
+
+- CSS
+
+- Currently Learning Javascript
 
 ## Projects
--🏦 Bank Account System -OOP in Python
+- 🏦 Bank Account System -OOP in Python
+
+- Amazon-clone
 
 ## Connect with me 
 - LinkedIn:www.linkedin.com/in/karishma-shahi5
